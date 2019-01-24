@@ -1,2 +1,1 @@
-# testOpenC
-Repository de test pour cours en ligne
+Je suis enfin parvenue à installer correctement Sublime
